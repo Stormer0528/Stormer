@@ -50,6 +50,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .image-profile{width:500px;height:480px}
 .paragraph{height: 26px; margin-bottom: 15px; border: 1px solid #ffffff; background: transparent;}
 .progress{height: 25px; padding: 5px 0px 5px 5px; background: #ffffff; border-radius: 0px; color: #000000; font-weight: bold;}
+.progress-container{padding: 0 200px;}
 
 
 
